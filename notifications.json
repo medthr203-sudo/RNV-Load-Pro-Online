@@ -1,5 +1,5 @@
 {
-  "Enabled": false,
+  "Enabled": true,
   "Id": "update-001",
   "Type": "Update",
   "Title": "Nouvelle version disponible",
