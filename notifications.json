@@ -1,38 +1,38 @@
 [
-  {
-    "Enabled": true,
-    "Id": "update-001",
-    "Type": "Update",
-    "Title": "Nouvelle version disponible",
-    "Message": "Une nouvelle version de RNV Load Pro est disponible.",
-    "Version": "2.0.0",
-    "Url": "",
-    "DownloadUrl": "",
-    "Sha256": "",
-    "PublishedAt": "12/09/2026"
-  },
-  {
-    "Enabled": true,
-    "Id": "news-002",
-    "Type": "Information",
-    "Title": "Nouvelle fonctionnalité",
-    "Message": "Une nouvelle fonctionnalité est disponible dans RNV Load Pro.",
-    "Version": "",
-    "Url": "",
-    "DownloadUrl": "",
-    "Sha256": "",
-    "PublishedAt": "12/09/2026"
-  },
-  {
-    "Enabled": true,
-    "Id": "news-003",
-    "Type": "Information",
-    "Title": "Optimisations",
-    "Message": "Des optimisations et corrections ont été apportées au logiciel.",
-    "Version": "",
-    "Url": "",
-    "DownloadUrl": "",
-    "Sha256": "",
-    "PublishedAt": "12/09/2026"
-  }
+{
+"Enabled": true,
+"Id": "update-001",
+"Type": "Update",
+"Title": "Nouvelle version disponible",
+"Message": "Une nouvelle version de RNV Load Pro est disponible.",
+"Version": "2.0.0",
+"Url": "",
+"DownloadUrl": "",
+"Sha256": "",
+"PublishedAt": "12/09/2026"
+},
+{
+"Enabled": true,
+"Id": "news-002",
+"Type": "Information",
+"Title": "Nouvelle fonctionnalité",
+"Message": "Une nouvelle fonctionnalité est disponible dans RNV Load Pro.",
+"Version": "",
+"Url": "",
+"DownloadUrl": "",
+"Sha256": "",
+"PublishedAt": "12/09/2026"
+},
+{
+"Enabled": true,
+"Id": "news-003",
+"Type": "Information",
+"Title": "Optimisations",
+"Message": "Des optimisations et corrections ont été apportées au logiciel.",
+"Version": "",
+"Url": "",
+"DownloadUrl": "",
+"Sha256": "",
+"PublishedAt": "12/09/2026"
+}
 ]
