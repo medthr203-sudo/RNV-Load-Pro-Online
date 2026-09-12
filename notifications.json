@@ -1,6 +1,6 @@
 [
   {
-    "Enabled": true,
+    "Enabled": false,
     "Id": "update-test-004",
     "Type": "Update",
     "Title": "Nouvelle version disponible",
@@ -12,11 +12,11 @@
     "PublishedAt": "12/09/2026"
   },
   {
-    "Enabled": true,
+    "Enabled": false,
     "Id": "news-test-005",
     "Type": "Information",
-    "Title": "Nouvelle fonctionnalية",
-    "Message": "Une nouvelle fonctionnalية est disponible dans RNV Load Pro.",
+    "Title": "Nouvelle fonctionnalité",
+    "Message": "Une nouvelle fonctionnalité est disponible dans RNV Load Pro.",
     "Version": "",
     "Url": "",
     "DownloadUrl": "",
