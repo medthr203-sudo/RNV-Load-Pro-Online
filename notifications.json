@@ -1,10 +1,12 @@
 {
   "Enabled": true,
-  "Id": "test-001",
-  "Type": "Information",
-  "Title": "Bienvenue sur RNV Load Pro",
-  "Message": "Le système de notifications en ligne est maintenant opérationnel.",
-  "Version": "999.0.0",
- "Url": "https://github.com/medthr203-sudo/RNV-Load-Pro-Online",
+  "Id": "update-001",
+  "Type": "Update",
+  "Title": "Nouvelle version disponible",
+  "Message": "Une nouvelle version de RNV Load Pro est disponible.",
+  "Version": "1.1.0",
+  "Url": "",
+  "DownloadUrl": "https://github.com/medthr203-sudo/RNV-Load-Pro-Online/releases/download/v1.1.0/RNV_Load_Pro_Setup.exe",
+  "Sha256": "402cfa6c1a419a74ebad3d2544e07304918f9e6abd3a018ff7263cc3a1036f74",
   "PublishedAt": "12/09/2026"
 }
