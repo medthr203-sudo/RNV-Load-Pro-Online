@@ -1,19 +1,19 @@
 [
   {
-  "Enabled": true,
-  "Id": "update-012",
-  "Type": "Update",
-  "Title": "Nouvelle version disponible — RNV Load Pro 1.2",
-  "Message": "La version 1.2 de RNV Load Pro est désormais disponible. Cette version apporte plusieurs améliorations et corrections.",
-  "Version": "1.2",
-  "Url": "",
-  "DownloadUrl": "https://github.com/medthr203-sudo/RNV-Load-Pro-Online/releases/download/v1.2/RNV_Load_Pro_Setup.exe",
-  "Sha256": "72c1a18aa4be3bb3a690c3620edf8c31bb1ca07cb515f117e06d6e997e3b3095",
-  "PublishedAt": "15/09/2026"
-},
+    "Enabled": true,
+    "Id": "update-013",
+    "Type": "Update",
+    "Title": "Nouvelle version disponible — RNV Load Pro 1.2",
+    "Message": "La version 1.2 de RNV Load Pro est désormais disponible. Cette version apporte plusieurs améliorations et corrections.",
+    "Version": "1.2",
+    "Url": "",
+    "DownloadUrl": "https://github.com/medthr203-sudo/RNV-Load-Pro-Online/releases/download/v1.2/RNV_Load_Pro_Setup.exe",
+    "Sha256": "4f3a2f691869d49db6728441d57409ea5856a8e259d497785f4da70dd542d946",
+    "PublishedAt": "15/09/2026"
+  },
   {
     "Enabled": true,
-    "Id": "news-012",
+    "Id": "news-013",
     "Type": "Information",
     "Title": "Corrections du calcul des toitures",
     "Message": "Des corrections ont été apportées au calcul des surfaces des zones de toiture ainsi qu'à la détermination des coefficients Cpe pour les différentes zones.",
