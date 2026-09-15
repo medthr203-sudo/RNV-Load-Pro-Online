@@ -1,26 +1,13 @@
-[
-  {
-    "Enabled": true
-    "Id": "update-test-004",
-    "Type": "Update",
-    "Title": "Nouvelle version disponible",
-    "Message": "Une nouvelle version de RNV Load Pro est disponible.",
-    "Version": "1.1.0",
-    "Url": "",
-    "DownloadUrl": "https://github.com/medthr203-sudo/RNV-Load-Pro-Online/releases/download/v1.1.0/RNV_Load_Pro_Setup.exe",
-    "Sha256": "d4a6c65945f7689cef9c6d12041641363c8b68b6383de3dbb5017269400faff5",
-    "PublishedAt": "12/09/2026"
-  },
-  {
-    "Enabled": true
-    "Id": "news-test-005",
-    "Type": "Information",
-    "Title": "Nouvelle fonctionnalité",
-    "Message": "Une nouvelle fonctionnalité est disponible dans RNV Load Pro.",
-    "Version": "",
-    "Url": "",
-    "DownloadUrl": "",
-    "Sha256": "d4a6c65945f7689cef9c6d12041641363c8b68b6383de3dbb5017269400faff5",
-    "PublishedAt": "12/09/2026"
-  }
-]
+{
+  "Enabled": true,
+  "Id": "news-test-006",
+  "Type": "Information",
+  "Title": "Nouvelle fonctionnalité",
+  "Message": "La fonctionnalité d’exportation des charges vers Robot a été ajoutée.",
+  "Version": "",
+  "Url": "",
+  "DownloadUrl": "",
+  "Sha256": "",
+  "PublishedAt": "15/09/2026"
+}
+
