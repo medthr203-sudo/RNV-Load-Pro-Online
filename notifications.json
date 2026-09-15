@@ -1,13 +1,26 @@
-{
-  "Enabled": true,
-  "Id": "news-test-006",
-  "Type": "Information",
-  "Title": "Nouvelle fonctionnalité",
-  "Message": "La fonctionnalité d’exportation des charges vers Robot a été ajoutée.",
-  "Version": "",
-  "Url": "",
-  "DownloadUrl": "",
-  "Sha256": "",
-  "PublishedAt": "15/09/2026"
-}
-
+[
+  {
+    "Enabled": true,
+    "Id": "news-test-007",
+    "Type": "Information",
+    "Title": "Nouvelle fonctionnalité",
+    "Message": "La fonctionnalité d’exportation des charges vers Robot a été ajoutée.",
+    "Version": "",
+    "Url": "",
+    "DownloadUrl": "",
+    "Sha256": "",
+    "PublishedAt": "15/09/2026"
+  },
+  {
+    "Enabled": true,
+    "Id": "news-test-008",
+    "Type": "Information",
+    "Title": "Révision et améliorations",
+    "Message": "Une révision générale de l’application a été effectuée afin de corriger plusieurs erreurs et d’apporter diverses améliorations.",
+    "Version": "",
+    "Url": "",
+    "DownloadUrl": "",
+    "Sha256": "",
+    "PublishedAt": "15/09/2026"
+  }
+]
