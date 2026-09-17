@@ -1,26 +1,12 @@
-[
-  {
-    "Enabled": true,
-    "Id": "update-013",
-    "Type": "Update",
-    "Title": "Nouvelle version disponible — RNV Load Pro 1.2",
-    "Message": "La version 1.2 de RNV Load Pro est désormais disponible. Cette version apporte plusieurs améliorations et corrections.",
-    "Version": "1.2",
-    "Url": "",
-    "DownloadUrl": "https://github.com/medthr203-sudo/RNV-Load-Pro-Online/releases/download/v1.2/RNV_Load_Pro_Setup.exe",
-    "Sha256": "4f3a2f691869d49db6728441d57409ea5856a8e259d497785f4da70dd542d946",
-    "PublishedAt": "15/09/2026"
-  },
-  {
-    "Enabled": true,
-    "Id": "news-013",
-    "Type": "Information",
-    "Title": "Corrections du calcul des toitures",
-    "Message": "Des corrections ont été apportées au calcul des surfaces des zones de toiture ainsi qu'à la détermination des coefficients Cpe pour les différentes zones.",
-    "Version": "",
-    "Url": "",
-    "DownloadUrl": "",
-    "Sha256": "",
-    "PublishedAt": "15/09/2026"
-  }
-]
+{
+  "Enabled": true,
+  "Id": "update-014",
+  "Type": "Update",
+  "Title": "Nouvelle version disponible — RNV Load Pro 1.3",
+  "Message": "La version 1.3 de RNV Load Pro est désormais disponible. Cette version apporte des corrections et des améliorations au calcul de la force de frottement conformément au RNV 2013.",
+  "Version": "1.3",
+  "Url": "",
+  "DownloadUrl": "https://github.com/medthr203-sudo/RNV-Load-Pro-Online/releases/download/v1.3/RNV_Load_Pro_Setup_v1.3.rar",
+  "Sha256": "776632026d7bca972043b642098e20c3db561ab710ba015df8afb03ac8ed4538",
+  "PublishedAt": "17/09/2026"
+}
