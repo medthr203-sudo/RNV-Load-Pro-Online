@@ -2,11 +2,11 @@
   "Enabled": true,
   "Id": "update-017",
   "Type": "Update",
-  "Title": "Nouvelle version disponible — RNV Load Pro 1.4",
-  "Message": "La version 1.4 de RNV Load Pro est désormais disponible. Cette version apporte l’exportation des résultats des panneaux de signalisation vers Robot Structural Analysis, ainsi que des améliorations de stabilité, des optimisations et des corrections générales du calcul du vent.",
-  "Version": "1.4",
+  "Title": "Nouvelle version disponible — RNV Load Pro 1.5",
+  "Message": "La version 1.5 de RNV Load Pro est désormais disponible. Cette nouvelle version apporte plusieurs améliorations de la visualisation 3D, de l’interface et des résultats, ainsi qu’une nouvelle calculatrice scientifique intégrée. Elle comprend également des optimisations, des améliorations de stabilité et diverses corrections pour une utilisation plus fluide et plus fiable du logiciel.",
+  "Version": "1.5",
   "Url": "",
-  "DownloadUrl": "https://github.com/medthr203-sudo/RNV-Load-Pro-Online/releases/download/v1.4/RNV_Load_Pro_Setup.exe",
-  "Sha256": "a5ec913b770c5a7514155f33e789eb68117091133e2380ccd96e614298c3af0a",
-  "PublishedAt": "20/09/2026"
+  "DownloadUrl": "https://github.com/medthr203-sudo/RNV-Load-Pro-Online/releases/download/v1.5/RNV_Load_Pro_Setup.exe",
+  "Sha256": "7b30875f7291dbee01e499dbd961f0b995cf220f8ca0021871e6096a6a892215",
+  "PublishedAt": "29/09/2026"
 }
