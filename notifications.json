@@ -1,12 +1,12 @@
 {
   "Enabled": true,
-  "Id": "update-017",
+  "Id": "update-018",
   "Type": "Update",
-  "Title": "Nouvelle version disponible — RNV Load Pro 1.5",
-  "Message": "La version 1.5 de RNV Load Pro est désormais disponible. Cette nouvelle version apporte plusieurs améliorations de la visualisation 3D, de l’interface et des résultats, ainsi qu’une nouvelle calculatrice scientifique intégrée. Elle comprend également des optimisations, des améliorations de stabilité et diverses corrections pour une utilisation plus fluide et plus fiable du logiciel.",
-  "Version": "1.5",
+  "Title": "Nouvelle version disponible — RNV Load Pro 1.5.2",
+  "Message": "La version 1.5.2 est une version corrective. Elle corrige l’identification des zones Fsup et Finf pour les toitures monopentes en direction 90° et vérifie leur correspondance avec les valeurs Cpe selon le RNV 2013. Aucune modification n’a été apportée aux autres fonctionnalités de calcul.",
+  "Version": "1.5.2",
   "Url": "",
-  "DownloadUrl": "https://github.com/medthr203-sudo/RNV-Load-Pro-Online/releases/download/v1.5/RNV_Load_Pro_Setup.exe",
-  "Sha256": "7b30875f7291dbee01e499dbd961f0b995cf220f8ca0021871e6096a6a892215",
+  "DownloadUrl": "https://github.com/medthr203-sudo/RNV-Load-Pro-Online/releases/download/v1.5.2/RNV_Load_Pro_Setup.exe",
+  "Sha256": "d5586fb7d46ea64bbad8697c6d9ffa1d282214ab713508d58904ca79b796375f",
   "PublishedAt": "29/09/2026"
 }
