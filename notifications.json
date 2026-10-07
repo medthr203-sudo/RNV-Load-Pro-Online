@@ -1,12 +1,12 @@
 {
   "Enabled": true,
-  "Id": "update-019",
+  "Id": "update-020",
   "Type": "Update",
   "Title": "Nouvelle version disponible — RNV Load Pro 1.6.0",
   "Message": "La version 1.6.0 apporte plusieurs améliorations, notamment l’amélioration et la réorganisation de la Note de calcul, l’ajout des Dimensions des zones dans les résultats et la Note de calcul, ainsi que des améliorations de la présentation des résultats, de la gestion des projets et des différents types de toitures.",
   "Version": "1.6.0",
   "Url": "",
   "DownloadUrl": "https://github.com/medthr203-sudo/RNV-Load-Pro-Online/releases/download/v1.6.0/RNV_Load_Pro_Setup.exe",
-  "Sha256": "e8e18628e52b75d070bf66c40e0c8bcc070014c883fcb584878f20b012c36f43",
+  "Sha256": "450edc91cfe7b46f50e82923cb654fc7e76c1d02a3b4bcb0e4ac6c979c12d1e8",
   "PublishedAt": "07/10/2026"
 }
