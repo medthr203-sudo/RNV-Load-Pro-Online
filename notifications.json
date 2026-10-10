@@ -1,12 +1,13 @@
 {
   "Enabled": true,
-  "Id": "update-020",
+  "Id": "update-021",
   "Type": "Update",
-  "Title": "Nouvelle version disponible — RNV Load Pro 1.6.0",
-  "Message": "La version 1.6.0 apporte plusieurs améliorations, notamment l’amélioration et la réorganisation de la Note de calcul, l’ajout des Dimensions des zones dans les résultats et la Note de calcul, ainsi que des améliorations de la présentation des résultats, de la gestion des projets et des différents types de toitures.",
-  "Version": "1.6.0",
+  "Title": "Nouvelle version disponible — RNV Load Pro 1.6.2",
+  "Message": "La version 1.6.2 apporte des améliorations à l’export des charges vers Autodesk Robot Structural Analysis.",
+  "Version": "1.6.2",
   "Url": "",
-  "DownloadUrl": "https://github.com/medthr203-sudo/RNV-Load-Pro-Online/releases/download/v1.6.0/RNV_Load_Pro_Setup.exe",
-  "Sha256": "450edc91cfe7b46f50e82923cb654fc7e76c1d02a3b4bcb0e4ac6c979c12d1e8",
-  "PublishedAt": "07/10/2026"
+  "DownloadUrl": "https://github.com/medthr203-sudo/RNV-Load-Pro-Online/releases/download/v1.6.2/RNV_Load_Pro_Setup.exe",
+  "Sha256": "6f72f0a478af880db3ae38c47e9559152e7cb1bd96a02c74b6cc760cbab8e359",
+  "PublishedAt": "10/10/2026"
 }
+
