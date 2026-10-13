@@ -1,13 +1,12 @@
 {
   "Enabled": true,
-  "Id": "update-021",
+  "Id": "update-022",
   "Type": "Update",
-  "Title": "Nouvelle version disponible — RNV Load Pro 1.6.2",
-  "Message": "La version 1.6.2 apporte des améliorations à l’export des charges vers Autodesk Robot Structural Analysis.",
-  "Version": "1.6.2",
+  "Title": "Nouvelle version disponible — RNV Load Pro 1.7.0",
+  "Message": "La version 1.7.0 introduit la saisie manuelle du coefficient Ct, la définition séparée de l’état de surface des parois et de la toiture, ainsi que des améliorations du calcul de Cpe et de la recherche d’altitude géographique.",
+  "Version": "1.7.0",
   "Url": "",
-  "DownloadUrl": "https://github.com/medthr203-sudo/RNV-Load-Pro-Online/releases/download/v1.6.2/RNV_Load_Pro_Setup.exe",
-  "Sha256": "6f72f0a478af880db3ae38c47e9559152e7cb1bd96a02c74b6cc760cbab8e359",
-  "PublishedAt": "10/10/2026"
+  "DownloadUrl": "https://github.com/medthr203-sudo/RNV-Load-Pro-Online/releases/download/v1.7.0/RNV_Load_Pro_Setup.exe",
+  "Sha256": "a66474cea763c4ac8a1bae870d682500f928cb706877deb0eef6947e5bcf41b9",
+  "PublishedAt": "13/10/2026"
 }
-
