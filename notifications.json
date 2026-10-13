@@ -1,13 +1,12 @@
 {
-  "Enabled": true,
-  "Id": "update-022",
-  "Type": "Update",
-  "Title": "Nouvelle version disponible — RNV Load Pro 1.7.0",
-  "Message": "La version 1.7.0 introduit la saisie manuelle du coefficient Ct, la définition séparée de l’état de surface des parois et de la toiture, ainsi que des améliorations du calcul de Cpe et de la recherche d’altitude géographique.",
-  "Version": "1.7.0",
-  "Url": "",
-  "DownloadUrl": "https://github.com/medthr203-sudo/RNV-Load-Pro-Online/releases/download/v1.7.0/RNV_Load_Pro_Setup.exe",
-  "Sha256": "7e2f0231c6ef03c841c3f2b55309a71d131c0994041d4e315d56da006782928c",
-  "PublishedAt": "13/10/2026"
+"Enabled": true,
+"Id": "update-023",
+"Type": "Update",
+"Title": "Nouvelle version disponible — RNV Load Pro 1.7.2",
+"Message": "La version 1.7.2 de RNV Load Pro est disponible.",
+"Version": "1.7.2",
+"Url": "",
+"DownloadUrl": "https://github.com/medthr203-sudo/RNV-Load-Pro-Online/releases/download/v1.7.2/RNV_Load_Pro_Setup.exe",
+"Sha256": "591b5bfc92aa18e9ad21f0860b7f0c4816243a49b15bd52046cdd3cc1a78997f",
+"PublishedAt": "14/10/2026"
 }
-
