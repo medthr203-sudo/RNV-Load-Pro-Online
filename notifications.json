@@ -1,12 +1,13 @@
 {
-"Enabled": true,
-"Id": "update-023",
-"Type": "Update",
-"Title": "Nouvelle version disponible — RNV Load Pro 1.7.2",
-"Message": "La version 1.7.2 de RNV Load Pro est disponible.",
-"Version": "1.7.2",
-"Url": "",
-"DownloadUrl": "https://github.com/medthr203-sudo/RNV-Load-Pro-Online/releases/download/v1.7.2/RNV_Load_Pro_Setup.exe",
-"Sha256": "a1dda0715ad722b4c2c251d3be4926092b1604286c6461032dfd284f0a1652ef",
-"PublishedAt": "14/10/2026"
+  "Enabled": true,
+  "Id": "update-023",
+  "Type": "Update",
+  "Title": "Nouvelle version disponible — RNV Load Pro 1.7.2",
+  "Message": "La version 1.7.2 de RNV Load Pro est disponible.",
+  "Version": "1.7.2",
+  "Url": "",
+  "DownloadUrl": "https://github.com/medthr203-sudo/RNV-Load-Pro-Online/releases/download/v1.7.2/RNV_Load_Pro_Setup.exe",
+  "Sha256": "bd7b68e358ba90a183afadba96d6bfa734aa149ff748145165171a8a3726a72d",
+  "PublishedAt": "14/10/2026"
 }
+
