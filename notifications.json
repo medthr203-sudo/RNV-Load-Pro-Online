@@ -1,12 +1,13 @@
 {
   "Enabled": true,
-  "Id": "update-026",
+  "Id": "update-027",
   "Type": "Update",
-  "Title": "Nouvelle version disponible — RNV Load Pro 1.7.8",
-  "Message": "Amélioration et personnalisation de l’export de la note de calcul, optimisation de l’interface utilisateur, de la recherche de l’altitude géographique et de la gestion des projets.",
-  "Version": "1.7.8",
+  "Title": "Nouvelle version disponible — RNV Load Pro 1.7.9",
+  "Message": "Amélioration et optimisation de l’export des charges vers Autodesk Robot Structural Analysis.",
+  "Version": "1.7.9",
   "Url": "",
-  "DownloadUrl": "https://github.com/medthr203-sudo/RNV-Load-Pro-Online/releases/download/v1.7.8/RNV_Load_Pro_Setup.exe",
-  "Sha256": "d63b3679934bb81f0808672839301cc5061a4488ea3673dd13dbf80d0acacab2",
+  "DownloadUrl": "https://github.com/medthr203-sudo/RNV-Load-Pro-Online/releases/download/v1.7.9/RNV_Load_Pro_Setup.exe",
+  "Sha256": "050c3d10a8fd1617ceaf1744019b572178350d75283307dc0dfad8994a64e4c4",
   "PublishedAt": "20/10/2026"
 }
+
