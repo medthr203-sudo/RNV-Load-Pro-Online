@@ -1,12 +1,12 @@
 {
-"Enabled": true,
-"Id": "update-025",
-"Type": "Update",
-"Title": "Nouvelle version disponible — RNV Load Pro 1.7.5",
-"Message": "La version 1.7.5 de RNV Load Pro est disponible.",
-"Version": "1.7.5",
-"Url": "",
-"DownloadUrl": "https://github.com/medthr203-sudo/RNV-Load-Pro-Online/releases/download/v1.7.5/RNV_Load_Pro_Setup.exe",
-"Sha256": "15b001c040a537b292979470e6dc2dad08facc70d12b4985d17f5856ee3d81c6",
-"PublishedAt": "16/10/2026"
+  "Enabled": true,
+  "Id": "update-026",
+  "Type": "Update",
+  "Title": "Nouvelle version disponible — RNV Load Pro 1.7.8",
+  "Message": "Amélioration et personnalisation de l’export de la note de calcul, optimisation de l’interface utilisateur, de la recherche de l’altitude géographique et de la gestion des projets.",
+  "Version": "1.7.8",
+  "Url": "",
+  "DownloadUrl": "https://github.com/medthr203-sudo/RNV-Load-Pro-Online/releases/download/v1.7.8/RNV_Load_Pro_Setup.exe",
+  "Sha256": "d63b3679934bb81f0808672839301cc5061a4488ea3673dd13dbf80d0acacab2",
+  "PublishedAt": "20/10/2026"
 }
