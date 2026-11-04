@@ -1,13 +1,12 @@
 {
   "Enabled": true,
-  "Id": "update-028",
+  "Id": "update-029",
   "Type": "Update",
-  "Title": "Nouvelle version disponible — RNV Load Pro 1.7.9",
-  "Message": "Amélioration et optimisation de l’export des charges vers Autodesk Robot Structural Analysis.",
-  "Version": "1.7.9",
+  "Title": "Nouvelle version disponible — RNV Load Pro 1.8.0",
+  "Message": "Amélioration du calcul du vent, exportation des charges de sable pour la zone D, ajout de l’exportation des charges permanentes et d’exploitation, amélioration de l’export Robot, du rapport de calcul et de la visualisation 3D.",
+  "Version": "1.8.0",
   "Url": "",
-  "DownloadUrl": "https://github.com/medthr203-sudo/RNV-Load-Pro-Online/releases/download/v1.7.9/RNV_Load_Pro_Setup.exe",
-  "Sha256": "9a3b2d7c6d5bd9a69ca9bd06f38803f3607385e5e2540cad0c9a7028b6a8b430",
-  "PublishedAt": "21/10/2026"
+  "DownloadUrl": "https://github.com/medthr203-sudo/RNV-Load-Pro-Online/releases/download/v1.8.0/RNV_Load_Pro_Setup.exe",
+  "Sha256": "dd190d76bc32b2835aeb8a9eeb635325fa903f5af9723b407d6b0b4f248399a4",
+  "PublishedAt": "04/11/2026"
 }
-
