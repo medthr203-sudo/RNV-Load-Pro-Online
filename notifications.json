@@ -1,12 +1,12 @@
 {
   "Enabled": true,
-  "Id": "update-029",
+  "Id": "update-030",
   "Type": "Update",
-  "Title": "Nouvelle version disponible — RNV Load Pro 1.8.0",
+  "Title": "Nouvelle version disponible — RNV Load Pro 1.8.2",
   "Message": "Amélioration du calcul du vent, exportation des charges de sable pour la zone D, ajout de l’exportation des charges permanentes et d’exploitation, amélioration de l’export Robot, du rapport de calcul et de la visualisation 3D.",
-  "Version": "1.8.0",
+  "Version": "1.8.2",
   "Url": "",
-  "DownloadUrl": "https://github.com/medthr203-sudo/RNV-Load-Pro-Online/releases/download/v1.8.0/RNV_Load_Pro_Setup.exe",
-  "Sha256": "dd190d76bc32b2835aeb8a9eeb635325fa903f5af9723b407d6b0b4f248399a4",
-  "PublishedAt": "04/11/2026"
+  "DownloadUrl": "https://github.com/medthr203-sudo/RNV-Load-Pro-Online/releases/download/v1.8.2/RNV_Load_Pro_Setup.exe",
+  "Sha256": "f24572bca61d2cac065a8f0f49be8285b2a881896575b83047d2b3a51f35d8bc",
+  "PublishedAt": "07/11/2026"
 }
