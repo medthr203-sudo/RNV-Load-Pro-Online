@@ -1,12 +1,12 @@
 {
   "Enabled": true,
-  "Id": "update-030",
+  "Id": "update-031",
   "Type": "Update",
-  "Title": "Nouvelle version disponible — RNV Load Pro 1.8.2",
-  "Message": "Amélioration du calcul du vent, exportation des charges de sable pour la zone D, ajout de l’exportation des charges permanentes et d’exploitation, amélioration de l’export Robot, du rapport de calcul et de la visualisation 3D.",
-  "Version": "1.8.2",
+  "Title": "Nouvelle version disponible — RNV Load Pro 1.8.4",
+  "Message": "Ajout du calcul des pressions équivalentes du vent pour les façades des murs et la toiture, intégration des résultats dans le rapport de calcul et ajout d’une nouvelle méthode d’application et d’exportation des charges équivalentes vers Autodesk Robot.",
+  "Version": "1.8.4",
   "Url": "",
-  "DownloadUrl": "https://github.com/medthr203-sudo/RNV-Load-Pro-Online/releases/download/v1.8.2/RNV_Load_Pro_Setup.exe",
-  "Sha256": "f24572bca61d2cac065a8f0f49be8285b2a881896575b83047d2b3a51f35d8bc",
-  "PublishedAt": "07/11/2026"
+  "DownloadUrl": "https://github.com/medthr203-sudo/RNV-Load-Pro-Online/releases/download/v1.8.4/RNV_Load_Pro_Setup.exe",
+  "Sha256": "45fd937db2219ce42f0f1ab9d20ef36123ba2ceeb6bdb111aaa1ea44e6f42796",
+  "PublishedAt": "14/11/2026"
 }
