@@ -1,12 +1,12 @@
 {
   "Enabled": true,
-  "Id": "update-034",
+  "Id": "update-035",
   "Type": "Update",
-  "Title": "Nouvelle version disponible — RNV Load Pro 1.8.7",
-  "Message": "Nouvelle mise à jour de RNV Load Pro 1.8.7 disponible. Profitez désormais d'une prise en charge complète de trois langues : français, anglais et arabe, pour l'interface utilisateur, les résultats de calcul, l'aperçu et les rapports techniques.",
-  "Version": "1.8.7",
+  "Title": "Nouvelle version disponible — RNV Load Pro 1.8.8",
+  "Message": "Nouvelle mise à jour de RNV Load Pro 1.8.8 disponible. Version de démonstration accessible sans activation. Profitez d'une interface utilisateur multilingue en français, anglais et arabe, avec affichage des résultats et des rapports dans les trois langues.",
+  "Version": "1.8.8",
   "Url": "",
-  "DownloadUrl": "https://github.com/medthr203-sudo/RNV-Load-Pro-Online/releases/download/v1.8.7/RNV_Load_Pro_Setup.exe",
-  "Sha256": "9a9c2ed11cfb38fd5eb0c81049ae9732a52287673771f682c201cf8702e54e74",
-  "PublishedAt": "23/11/2026"
+  "DownloadUrl": "https://github.com/medthr203-sudo/RNV-Load-Pro-Online/releases/download/v1.8.8/RNV_Load_Pro_Setup.exe",
+  "Sha256": "08a704433ff48ff7ca8bbee21b00e3496e679150e0f08a066a1ab6ddef20f8a6",
+  "PublishedAt": "25/11/2026"
 }
